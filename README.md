@@ -12,6 +12,7 @@ This notebook simulates quantum channels using quantum gates and density matrice
 ## Some Glimpses
 The following is the comparison of pure and mixed states in a bloch ball
 ![Bloch_Ball](https://github.com/user-attachments/assets/d5a54caf-1707-4a2b-82d8-1a46c1a28e27)
+
 Below you can see the effect of amplitude damping channel
 ![Amplitude_Damping_Channel](https://github.com/user-attachments/assets/cbc25ffd-a63a-4555-b848-b1d01d33b9c4)
 
