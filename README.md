@@ -10,11 +10,8 @@ This notebook simulates quantum channels using quantum gates and density matrice
 - Simulates random quantum states and their evolution through quantum channels.
 
 ## Some Glimpses
-The following is the comparison of pure and mixed states in a bloch ball
-![Bloch_Ball](https://github.com/user-attachments/assets/d5a54caf-1707-4a2b-82d8-1a46c1a28e27)
-
-Below you can see the effect of amplitude damping channel
-![Amplitude_Damping_Channel](https://github.com/user-attachments/assets/cbc25ffd-a63a-4555-b848-b1d01d33b9c4)
+On the left of the following picture you can see the comparison of pure and mixed states represented on a bloch ball. And on the right you can see the effect of amplitude damping channel on pure states
+![GlimpseOfSimulations](https://github.com/user-attachments/assets/a71bba6a-6745-4521-8dbe-6ffa2ff2228a)
 
 
 ### Requirements
