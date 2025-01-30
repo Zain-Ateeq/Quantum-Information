@@ -1,5 +1,5 @@
 # Quantum-Information
-This repository is dedicated to Quantum Information Science (QIS), featuring simulations, code, and implementations related to quantum computing, quantum channels, and other QIS-related topics. It serves as a collection of my research, experiments, and projects in quantum information theory, providing resources for future work and exploration.
+This repository is dedicated to Quantum Information Science (QIS), featuring simulations, code, and implementations related to quantum computing, quantum channels, and other QIS-related topics. It serves as a collection of my projects in quantum information theory, providing resources for future work and exploration.
 ## Quantum Channel Simulations
 This notebook simulates quantum channels using quantum gates and density matrices. It includes visualization tools to represent transformations in 3D space.
 On the left of the following picture you can see the comparison of pure and mixed states represented on a bloch ball. And on the right you can see the effect of amplitude damping channel on pure states
