@@ -6,7 +6,7 @@ On the left of the following picture you can see the comparison of pure and mixe
 ![GlimpseOfSimulations](https://github.com/user-attachments/assets/a71bba6a-6745-4521-8dbe-6ffa2ff2228a)
 
 ### Features
-- Implements single-qubit quantum gates (X Y and Z Gates, Pauli matrices, Hadamard, Phase, T-gate, and rotation gates).
+- Implements single-qubit quantum gates (X, Y and Z Gates, Pauli matrices, Hadamard, phase, T-gate, and rotation gates).
 - Generates density matrices for pure and mixed states.
 - Provides an interactive 3D visualization of quantum state transformations using Plotly.
 - Simulates random quantum states and their evolution through quantum channels.
